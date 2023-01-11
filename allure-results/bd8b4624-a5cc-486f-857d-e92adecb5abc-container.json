@@ -1,0 +1,1 @@
+{"uuid":"bd8b4624-a5cc-486f-857d-e92adecb5abc","name":"automation-hono","children":["62387736-4936-4900-a2fa-9d6f75e83b5a"],"befores":[{"name":"initTestData","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1669380931148,"stop":1669380931191}],"afters":[],"start":1669380930775,"stop":1669381443512}
